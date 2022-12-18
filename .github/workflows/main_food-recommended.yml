@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Food-Recommended'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E6C38225F0A347BA8D0E562A5238B752 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46CFAA898EDF42C7A46C59F36FDEC745 }}
